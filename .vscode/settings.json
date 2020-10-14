@@ -1,0 +1,5 @@
+{
+    "python.pythonPath": "/Users/andrewtek/Documents/flask-tdd-docker/project/env/bin/python3.9",
+    "python.linting.pylintEnabled": true,
+    "python.linting.enabled": true
+}
